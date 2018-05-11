@@ -6,7 +6,7 @@ training-feno:34.243.34.249
 training-fetra:34.243.254.194
 training-haingo:54.154.237.226
 training-miora:34.245.162.126
-training-parfait:34.241.81.177
+training-parfait:54.194.15.66
 training-raoby:52.212.5.143
 training-rivo:34.253.17.239
 training-zoely:34.245.18.218
